@@ -1,0 +1,7 @@
+{
+  "name": "Plugin Loader",
+  "version": "1.0.0",
+  "description": "Adds a command that loads in smelly commands.",
+  "author": "dnglchlk#9343",
+  "license": "MIT"
+}
